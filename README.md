@@ -7,3 +7,7 @@
 ### [Assignment 3: Decision Tree](https://github.com/Binz-yy/MachineLearningClass/tree/main/Assignment%203)
 
 ### [Assignment 4: K-means Clustering](https://github.com/Binz-yy/MachineLearningClass/tree/main/Assignment%204)
+
+### [Collaborative Filtering Recommender Systems](https://github.com/Binz-yy/MachineLearningClass/tree/main/Assignment%205)
+
+
