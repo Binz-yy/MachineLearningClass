@@ -8,6 +8,6 @@
 
 ### [Assignment 4: K-means Clustering](https://github.com/Binz-yy/MachineLearningClass/tree/main/Assignment%204)
 
-### [Collaborative Filtering Recommender Systems](https://github.com/Binz-yy/MachineLearningClass/tree/main/Assignment%205)
+### [Assignment 5: Collaborative Filtering Recommender Systems](https://github.com/Binz-yy/MachineLearningClass/tree/main/Assignment%205)
 
 
